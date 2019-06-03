@@ -13,3 +13,5 @@ Scripts are put together in python2 (sorry)
 
 getvulns.py will prompt for API Key, UserID, and Org ID.  All necesssary for authenticating 
 into the Threat Stack API.
+
+Additional calls will be added later.
